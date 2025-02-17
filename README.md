@@ -27,7 +27,7 @@ _Resetting a Habit_:
   Select the habit you want to reset.
   The habit's count will be reset to 0.
   
-__Analyzing Habits_:
+_Analyzing Habits_:
   Run the application and select "Analyse Habits".
   Choose from the following options:
     List all habits: View a list of all currently tracked habits.
@@ -35,6 +35,6 @@ __Analyzing Habits_:
     Longest streak of all habits: View the longest streak achieved among all habits.
     Longest streak for a habit: View the longest streak achieved for a specific habit.
 
-__Deleting a Habit
+_Deleting a Habit_:  
   Run the application and select "Delete Habit". Select the habit you want to delete. The habit will be removed from the database.
   
