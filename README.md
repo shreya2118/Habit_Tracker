@@ -21,10 +21,12 @@ _Creating a New Habit_:
 _Run the application and select "Increment Habit"._:
   Select the habit you want to increment.
   The habit's count will be incremented by 1, and the last increment date will be updated.
+  
 _Resetting a Habit_:
   Run the application and select "Reset Habit".
   Select the habit you want to reset.
   The habit's count will be reset to 0.
+  
 __Analyzing Habits_:
   Run the application and select "Analyse Habits".
   Choose from the following options:
@@ -32,6 +34,7 @@ __Analyzing Habits_:
     List habits by periodicity: View habits filtered by their periodicity (Daily or Weekly).
     Longest streak of all habits: View the longest streak achieved among all habits.
     Longest streak for a habit: View the longest streak achieved for a specific habit.
+
 __Deleting a Habit
   Run the application and select "Delete Habit". Select the habit you want to delete. The habit will be removed from the database.
   
