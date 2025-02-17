@@ -35,6 +35,5 @@ _Analyzing Habits_:
     Longest streak of all habits: View the longest streak achieved among all habits.
     Longest streak for a habit: View the longest streak achieved for a specific habit.
 
-_Deleting a Habit_:  
-  Run the application and select "Delete Habit". Select the habit you want to delete. The habit will be removed from the database.
+_Deleting a Habit_:  Run the application and select "Delete Habit". Select the habit you want to delete. The habit will be removed from the database.
   
